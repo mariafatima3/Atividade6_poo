@@ -45,4 +45,4 @@ playlist.adicionar_musica(musica3)
 
 playlist.remover_musica(musica4)
 
-playlist.listar_musicas()
+playlist.listar_musicas() 
