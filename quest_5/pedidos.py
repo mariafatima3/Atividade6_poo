@@ -9,7 +9,7 @@ class ItemDePedido:
         self.quantidade = quantidade
 
     def __str__(self):
-        return f"{self.quantidade}x {self.produto}"
+        return f"{self.quantidade} x {self.produto}"
 
 
 class Pedido:
