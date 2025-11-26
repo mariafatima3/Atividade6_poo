@@ -29,7 +29,6 @@ class Post:
     def __str__(self):
         return f"Post: {self.titulo}\n{self.conteudo}"
 
-# Uso
 post1 = Post("Meu Primeiro Post", "Este é o conteúdo do post.")
 post1.adicionar_comentario("João", "Muito bom!")
 post1.adicionar_comentario("Beatriz", "Gostei do post!")
