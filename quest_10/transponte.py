@@ -48,3 +48,4 @@ print(f"Veículo {veiculo} está sendo dirigido por {veiculo.motorista}")
 
 motorista.parar_de_dirigir()
 print(f"Após parar: Motorista {motorista} está dirigindo {motorista.veiculo}, Veículo {veiculo} está sendo dirigido por {veiculo.motorista}")
+
